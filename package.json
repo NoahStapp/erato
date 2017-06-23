@@ -1,0 +1,14 @@
+{
+  "name": "erato",
+  "version": "1.0.0",
+  "description": "Spotify app that reccomends new bands and artists using customiziable critera",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Noah Stapp",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
